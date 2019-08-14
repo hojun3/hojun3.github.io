@@ -12,20 +12,20 @@
     
     
     <item>
-      <title>First</title>
-      <link>https://jsimple.hojun.cn/posts/%E5%93%88%E5%93%88%E5%93%88/</link>
+      <title>first</title>
+      <link>https://jsimple.hojun.cn/posts/first/</link>
       <pubDate>Mon, 22 Jul 2019 15:43:45 +0800</pubDate>
       
-      <guid>https://jsimple.hojun.cn/posts/%E5%93%88%E5%93%88%E5%93%88/</guid>
+      <guid>https://jsimple.hojun.cn/posts/first/</guid>
       <description>碎碎念 由于hugo没有插件接口或者有我这小白还不知道。目前官方大部分的主题都没有搜索功能，而一些拥有</description>
     </item>
     
     <item>
       <title>哈哈哈</title>
-      <link>https://jsimple.hojun.cn/posts/first/</link>
+      <link>https://jsimple.hojun.cn/posts/%E5%93%88%E5%93%88%E5%93%88/</link>
       <pubDate>Mon, 22 Jul 2019 15:43:45 +0800</pubDate>
       
-      <guid>https://jsimple.hojun.cn/posts/first/</guid>
+      <guid>https://jsimple.hojun.cn/posts/%E5%93%88%E5%93%88%E5%93%88/</guid>
       <description>碎碎念 由于hugo没有插件接口或者有我这小白还不知道。目前官方大部分的主题都没有搜索功能，而一些拥有</description>
     </item>
     
